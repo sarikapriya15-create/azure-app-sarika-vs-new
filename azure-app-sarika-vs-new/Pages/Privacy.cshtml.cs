@@ -7,6 +7,7 @@ namespace azure_app_sarika_vs_new.Pages
     {
         public void OnGet()
         {
+
         }
     }
 
